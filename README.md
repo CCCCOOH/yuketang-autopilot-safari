@@ -4,7 +4,7 @@
 
 > 请仅在获得课程与教师明确许可的场景使用，并自行核对生成结果。模型可能出错，使用 API 会产生费用。
 
-![脚本在 iPhone Safari / WebKit 中的运行界面](assets/panel-preview.png)
+![脚本在 iPhone Safari / WebKit 中的运行界面](assets/panel-preview.jpg)
 
 ## 功能
 
@@ -50,7 +50,7 @@ node tests/mobile-panel.test.mjs --engine=chromium
 
 - `yuketang-autopilot.safari.user.js`：Userscripts 脚本
 - `tests/mobile-panel.test.mjs`：移动端悬浮窗回归测试
-- `assets/panel-preview.png`：WebKit 中加载脚本生成的运行界面截图
+- `assets/panel-preview.jpg`：WebKit 中加载脚本生成的运行界面截图
 
 ## 免责声明
 
